@@ -33,6 +33,5 @@ Traducción al español del juego `Death Rally` porteado a Windows del clasico d
 ![Resultados de carreras](https://images2.imgbox.com/83/1e/0vJlnUHI_o.png)
 ![Estadisticas](https://images2.imgbox.com/b1/db/GfrjbkL5_o.png)
 ![Mensaje de Sponsor](https://images2.imgbox.com/99/ba/Zjc2zO8k_o.png)
-![Invitacion a F1](https://images2.imgbox.com/18/02/tUI3P9xP_o.png)
 ![Rocket Fuel](https://images2.imgbox.com/24/94/xVIaN0kJ_o.png)
 ![Engine](https://images2.imgbox.com/f2/56/VpzE2V3n_o.png)
